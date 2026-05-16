@@ -19,8 +19,7 @@ This project analyzes e-commerce sales data using Python and Power BI.
 - Interactive Dashboard Filter
 
 ## Dashboard Preview
-
-![Dashboard Screenshot](Screenshot2026-05-16.png)
+<img width="960" height="543" alt="Screenshot 2026-05-16 130112" src="https://github.com/user-attachments/assets/82cff652-1d93-4b2f-9b06-c25a5eecd226" />
 
 ## Author
 Mamilla Aasha
